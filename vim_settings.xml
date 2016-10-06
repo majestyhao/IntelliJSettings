@@ -45,10 +45,10 @@
         <mark key="]" line="578" column="57" />
         <mark key="." line="578" column="57" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/DijkstraSP.java" timestamp="1475737358143">
-        <mark key="[" line="192" column="4" />
-        <mark key="]" line="192" column="4" />
-        <mark key="." line="192" column="4" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/DijkstraSP.java" timestamp="1475791391779">
+        <mark key="[" line="101" column="41" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
         <mark key="[" line="55" column="41" />
@@ -123,10 +123,10 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475782897965">
-        <mark key="[" line="134" column="51" />
-        <mark key="]" line="134" column="51" />
-        <mark key="." line="134" column="51" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475791317329">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/CallPath.java" timestamp="1472783771088">
         <mark key="[" line="20" column="0" />
@@ -134,11 +134,12 @@
         <mark key="^" line="28" column="8" />
         <mark key="." line="28" column="8" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475735562828">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="155" column="23" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475790074204">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="249" column="60" />
+        <mark key="]" line="249" column="25" />
+        <mark key="." line="249" column="25" />
+        <mark key="^" line="249" column="25" />
       </file>
       <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475523839881">
         <mark key="[" line="79" column="15" />
@@ -196,38 +197,38 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBVbml0IHRlc3RzIHRoZSB7QGNvZGUgRGlqa3N0cmFTUH0gZGF0YSB0eXBlLgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzIHRoZSBjb21tYW5kLWxpbmUgYXJndW1lbnRzCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbiBpbiA9IG5ldyBJbihhcmdzWzBdKTsKICAgICAgICBFZGdlV2VpZ2h0ZWREaWdyYXBoIEcgPSBuZXcgRWRnZVdlaWdodGVkRGlncmFwaChpbik7CiAgICAgICAgaW50IHMgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMV0pOwoKICAgICAgICAvLyBjb21wdXRlIHNob3J0ZXN0IHBhdGhzCiAgICAgICAgRGlqa3N0cmFTUCBzcCA9IG5ldyBEaWprc3RyYVNQKEcsIHMpOwoKCiAgICAgICAgLy8gcHJpbnQgc2hvcnRlc3QgcGF0aAogICAgICAgIGZvciAoaW50IHQgPSAwOyB0IDwgRy5WKCk7IHQrKykgewogICAgICAgICAgICBpZiAoc3AuaGFzUGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRmKCIlZCB0byAlZCAoJS4yZikgICIsIHMsIHQsIHNwLmRpc3RUbyh0KSk7CiAgICAgICAgICAgICAgICBmb3IgKERpcmVjdGVkRWRnZSBlIDogc3AucGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RkT3V0LnByaW50KGUgKyAiICAgIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRsbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgU3RkT3V0LnByaW50ZigiJWQgdG8gJWQgICAgICAgICBubyBwYXRoXG4iLCBzLCB0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRoLnIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Scene.v().getCallGraph()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRoLnIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChFZGdlIGUgOiBjYWxsR3JhcGguZWRnZXNPdXRPZih2KSkgewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">SXRlcmF0b3I8TWV0aG9kT3JNZXRob2RDb250ZXh0PiBtZXRob2RPck1ldGhvZENvbnRleHRJdGVyYXRvciA9IGNhbGxHcmFwaC5zb3VyY2VNZXRob2RzKCk7CiAgICAgICAgd2hpbGUgKG1ldGhvZE9yTWV0aG9kQ29udGV4dEl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBTb290TWV0aG9kIHNvb3RNZXRob2QgPSBtZXRob2RPck1ldGhvZENvbnRleHRJdGVyYXRvci5uZXh0KCkubWV0aG9kKCk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChPYmplY3QgbyA6KSB7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5iYihUQUcsICJ2OiAiICsgdCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKEVkZ2UgZWRnZSA6IHN1YkdyYXBoKSB7CiAgICAgICAgICAgIExvZy5iYihUQUcsIGVkZ2UpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGVjayB0aGF0IGVkZ2Ugd2VpZ2h0cyBhcmUgbm9ubmVnYXRpdmUK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAobWV0aG9kSXRlcmF0b3IuaGFzTmV4dCgpKXsK</text>
+      </register>
       <register name="-" type="4">
-        <text>Scene.v().getCallGraph()</text>
+        <text>methodIterator.next().method()</text>
       </register>
     </registers>
     <search>
