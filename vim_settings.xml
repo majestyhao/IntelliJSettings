@@ -1,0 +1,266 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/EntrypointAnalysis.java" timestamp="1472754747351">
+        <mark key="[" line="265" column="5" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/settings.gradle" timestamp="1472757199099">
+        <mark key="[" line="0" column="41" />
+      </file>
+      <file name="D:/workspace/MyConDroid/src/fu/hao/utils/IndexMinPQ.java" timestamp="1475734731698">
+        <mark key="[" line="345" column="18" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/MethodUtils.java" timestamp="1475722818583">
+        <mark key="[" line="157" column="120" />
+      </file>
+      <file name="/a.dummy" timestamp="1472698695889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/IntelliDroidX/src/fu/hao/intellidroid/core/Test.java" timestamp="1472641280671">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+      </file>
+      <file name="D:/workspace/IntelliDroidOri/build.gradle" timestamp="1472703268707">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/AndroidAppMethodTargetSelector.java" timestamp="1472756182016">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="52" column="5" />
+      </file>
+      <file name="D:/workspace/ConDroid/utils/src/Settings.java" timestamp="1475451476168">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/symbolic/java/acteve/symbolic/Util.java" timestamp="1475451719098">
+        <mark key="[" line="578" column="57" />
+        <mark key="]" line="578" column="57" />
+        <mark key="." line="578" column="57" />
+      </file>
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/DijkstraSP.java" timestamp="1475737358143">
+        <mark key="[" line="190" column="4" />
+        <mark key="]" line="190" column="4" />
+        <mark key="." line="190" column="4" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
+        <mark key="[" line="55" column="41" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Settings.java" timestamp="1472690084782">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="39" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="37" column="39" />
+      </file>
+      <file name="D:/workspace/IntelliDroidOri/settings.gradle" timestamp="1472701890465">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/SymOpsClassGenerator.java" timestamp="1475625586639">
+        <mark key="[" line="256" column="19" />
+        <mark key="]" line="256" column="17" />
+        <mark key="^" line="256" column="17" />
+        <mark key="." line="256" column="17" />
+      </file>
+      <file name="D:/workspace/MyConDroid/src/fu/hao/utils/Settings.java" timestamp="1475721252698">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/CallGraphInfoListener.java" timestamp="1472604178259">
+        <mark key="[" line="40" column="5" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/AndroidClassesAndMethods.java" timestamp="1472696107005">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="16" column="101" />
+        <mark key="." line="16" column="67" />
+      </file>
+      <file name="D:/workspace/ConDroid/config.properties" timestamp="1475604767651">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Statistics.java" timestamp="1472754995186">
+        <mark key="[" line="13" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475720925043">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/analysis/EntrypointAnalysis.java" timestamp="1472782374979">
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="103" column="75" />
+        <mark key="." line="103" column="75" />
+        <mark key="^" line="103" column="28" />
+      </file>
+      <file name="D:/workspace/PlayWala/src/MySlicer.java" timestamp="1472701216669">
+        <mark key="[" line="27" column="86" />
+        <mark key="]" line="27" column="86" />
+        <mark key="." line="27" column="86" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/UIActivityMapping.java" timestamp="1472755294326">
+        <mark key="[" line="173" column="34" />
+        <mark key="]" line="173" column="12" />
+        <mark key="." line="173" column="12" />
+        <mark key="^" line="173" column="12" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/ManifestAnalysis.java" timestamp="1472692249622">
+        <mark key="[" line="62" column="78" />
+        <mark key="]" line="62" column="48" />
+        <mark key="^" line="62" column="48" />
+        <mark key="." line="62" column="48" />
+      </file>
+      <file name="D:/workspace/ConDroid/utils/src/fu/hao/utils/Log.java" timestamp="1475633738708">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475781776583">
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/CallPath.java" timestamp="1472783771088">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+      </file>
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475735562828">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="155" column="23" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475523839881">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/IntelliDroidAppAnalysis.java" timestamp="1475100030304">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="73" column="18" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/CallGraphInfoListener.java" timestamp="1472787601362">
+        <mark key="[" line="92" column="32" />
+        <mark key="]" line="92" column="32" />
+        <mark key="." line="92" column="32" />
+        <mark key="^" line="66" column="17" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/symbolic/java/acteve/symbolic/Mylog.java" timestamp="1475456175380">
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="12" />
+        <mark key="." line="103" column="12" />
+      </file>
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475723269050">
+        <mark key="^" line="386" column="44" />
+      </file>
+      <file name="D:/workspace/ConDroid/utils/src/fu/hao/utils/Settings.java" timestamp="1475603569201">
+        <mark key="[" line="34" column="45" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/AndroidEntrypoint.java" timestamp="1472599949218">
+        <mark key="[" line="9" column="31" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/analysis/AndroidAppDFSPathFinder.java" timestamp="1472861187285">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1475727321949">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+      </file>
+      <file name="D:/workspace/ConDroid/utils/src/fu/hao/utils/Statistics.java" timestamp="1475451634747">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/workspace/MyIntelliDroid/build.gradle" timestamp="1472757180382">
+        <mark key="[" line="6" column="31" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="149" column="12" filename="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/analysis/TargetedPathsAnalysis.java" />
+      <jump line="43" column="71" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
+      <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBVbml0IHRlc3RzIHRoZSB7QGNvZGUgRGlqa3N0cmFTUH0gZGF0YSB0eXBlLgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzIHRoZSBjb21tYW5kLWxpbmUgYXJndW1lbnRzCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbiBpbiA9IG5ldyBJbihhcmdzWzBdKTsKICAgICAgICBFZGdlV2VpZ2h0ZWREaWdyYXBoIEcgPSBuZXcgRWRnZVdlaWdodGVkRGlncmFwaChpbik7CiAgICAgICAgaW50IHMgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMV0pOwoKICAgICAgICAvLyBjb21wdXRlIHNob3J0ZXN0IHBhdGhzCiAgICAgICAgRGlqa3N0cmFTUCBzcCA9IG5ldyBEaWprc3RyYVNQKEcsIHMpOwoKCiAgICAgICAgLy8gcHJpbnQgc2hvcnRlc3QgcGF0aAogICAgICAgIGZvciAoaW50IHQgPSAwOyB0IDwgRy5WKCk7IHQrKykgewogICAgICAgICAgICBpZiAoc3AuaGFzUGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRmKCIlZCB0byAlZCAoJS4yZikgICIsIHMsIHQsIHNwLmRpc3RUbyh0KSk7CiAgICAgICAgICAgICAgICBmb3IgKERpcmVjdGVkRWRnZSBlIDogc3AucGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RkT3V0LnByaW50KGUgKyAiICAgIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRsbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgU3RkT3V0LnByaW50ZigiJWQgdG8gJWQgICAgICAgICBubyBwYXRoXG4iLCBzLCB0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBVbml0IHRlc3RzIHRoZSB7QGNvZGUgRGlqa3N0cmFTUH0gZGF0YSB0eXBlLgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzIHRoZSBjb21tYW5kLWxpbmUgYXJndW1lbnRzCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbiBpbiA9IG5ldyBJbihhcmdzWzBdKTsKICAgICAgICBFZGdlV2VpZ2h0ZWREaWdyYXBoIEcgPSBuZXcgRWRnZVdlaWdodGVkRGlncmFwaChpbik7CiAgICAgICAgaW50IHMgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMV0pOwoKICAgICAgICAvLyBjb21wdXRlIHNob3J0ZXN0IHBhdGhzCiAgICAgICAgRGlqa3N0cmFTUCBzcCA9IG5ldyBEaWprc3RyYVNQKEcsIHMpOwoKCiAgICAgICAgLy8gcHJpbnQgc2hvcnRlc3QgcGF0aAogICAgICAgIGZvciAoaW50IHQgPSAwOyB0IDwgRy5WKCk7IHQrKykgewogICAgICAgICAgICBpZiAoc3AuaGFzUGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRmKCIlZCB0byAlZCAoJS4yZikgICIsIHMsIHQsIHNwLmRpc3RUbyh0KSk7CiAgICAgICAgICAgICAgICBmb3IgKERpcmVjdGVkRWRnZSBlIDogc3AucGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RkT3V0LnByaW50KGUgKyAiICAgIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRsbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgU3RkT3V0LnByaW50ZigiJWQgdG8gJWQgICAgICAgICBubyBwYXRoXG4iLCBzLCB0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChFZGdlIGUgOiBjYWxsR3JhcGguZWRnZXNPdXRPZih2KSkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChPYmplY3QgbyA6KSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayB0aGF0IGVkZ2Ugd2VpZ2h0cyBhcmUgbm9ubmVnYXRpdmUK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

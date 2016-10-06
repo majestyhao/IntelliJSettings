@@ -1,0 +1,20 @@
+<templateSet group="user">
+  <template name="com_c" value="&#10;/**&#10; * Class: $class$ &#10; * Description: &#10; * @author Hao Fu(haofu@ucdavis.edu)&#10; * @version v0.1.0&#10; * @since $date$ $time$&#10; */" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="com_m" value="&#10;/**&#10; * Method: $method$ &#10; * Description: &#10; * @param $params$&#10; * @throw &#10; * @return $return$&#10; * @author Hao Fu(haofu@ucdavis.edu)&#10; * @since $date$ $time$&#10; */" toReformat="false" toShortenFQNames="true">
+    <variable name="method" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
