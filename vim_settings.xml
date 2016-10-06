@@ -123,9 +123,10 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475781776583">
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475782897965">
+        <mark key="[" line="134" column="51" />
+        <mark key="]" line="134" column="51" />
+        <mark key="." line="134" column="51" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/CallPath.java" timestamp="1472783771088">
         <mark key="[" line="20" column="0" />
@@ -199,7 +200,7 @@
         <text encoding="base64">LyoqCiAgICAgKiBVbml0IHRlc3RzIHRoZSB7QGNvZGUgRGlqa3N0cmFTUH0gZGF0YSB0eXBlLgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzIHRoZSBjb21tYW5kLWxpbmUgYXJndW1lbnRzCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbiBpbiA9IG5ldyBJbihhcmdzWzBdKTsKICAgICAgICBFZGdlV2VpZ2h0ZWREaWdyYXBoIEcgPSBuZXcgRWRnZVdlaWdodGVkRGlncmFwaChpbik7CiAgICAgICAgaW50IHMgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMV0pOwoKICAgICAgICAvLyBjb21wdXRlIHNob3J0ZXN0IHBhdGhzCiAgICAgICAgRGlqa3N0cmFTUCBzcCA9IG5ldyBEaWprc3RyYVNQKEcsIHMpOwoKCiAgICAgICAgLy8gcHJpbnQgc2hvcnRlc3QgcGF0aAogICAgICAgIGZvciAoaW50IHQgPSAwOyB0IDwgRy5WKCk7IHQrKykgewogICAgICAgICAgICBpZiAoc3AuaGFzUGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRmKCIlZCB0byAlZCAoJS4yZikgICIsIHMsIHQsIHNwLmRpc3RUbyh0KSk7CiAgICAgICAgICAgICAgICBmb3IgKERpcmVjdGVkRWRnZSBlIDogc3AucGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RkT3V0LnByaW50KGUgKyAiICAgIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRsbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgU3RkT3V0LnByaW50ZigiJWQgdG8gJWQgICAgICAgICBubyBwYXRoXG4iLCBzLCB0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBVbml0IHRlc3RzIHRoZSB7QGNvZGUgRGlqa3N0cmFTUH0gZGF0YSB0eXBlLgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzIHRoZSBjb21tYW5kLWxpbmUgYXJndW1lbnRzCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbiBpbiA9IG5ldyBJbihhcmdzWzBdKTsKICAgICAgICBFZGdlV2VpZ2h0ZWREaWdyYXBoIEcgPSBuZXcgRWRnZVdlaWdodGVkRGlncmFwaChpbik7CiAgICAgICAgaW50IHMgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMV0pOwoKICAgICAgICAvLyBjb21wdXRlIHNob3J0ZXN0IHBhdGhzCiAgICAgICAgRGlqa3N0cmFTUCBzcCA9IG5ldyBEaWprc3RyYVNQKEcsIHMpOwoKCiAgICAgICAgLy8gcHJpbnQgc2hvcnRlc3QgcGF0aAogICAgICAgIGZvciAoaW50IHQgPSAwOyB0IDwgRy5WKCk7IHQrKykgewogICAgICAgICAgICBpZiAoc3AuaGFzUGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRmKCIlZCB0byAlZCAoJS4yZikgICIsIHMsIHQsIHNwLmRpc3RUbyh0KSk7CiAgICAgICAgICAgICAgICBmb3IgKERpcmVjdGVkRWRnZSBlIDogc3AucGF0aFRvKHQpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RkT3V0LnByaW50KGUgKyAiICAgIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBTdGRPdXQucHJpbnRsbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgU3RkT3V0LnByaW50ZigiJWQgdG8gJWQgICAgICAgICBubyBwYXRoXG4iLCBzLCB0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+        <text>Scene.v().getCallGraph()</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChFZGdlIGUgOiBjYWxsR3JhcGguZWRnZXNPdXRPZih2KSkgewo=</text>
@@ -226,7 +227,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Scene.v().getCallGraph()</text>
       </register>
     </registers>
     <search>
