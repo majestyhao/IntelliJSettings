@@ -45,10 +45,11 @@
         <mark key="]" line="578" column="57" />
         <mark key="." line="578" column="57" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/DijkstraSP.java" timestamp="1475791391779">
-        <mark key="[" line="101" column="41" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/DijkstraSP.java" timestamp="1475798285750">
+        <mark key="[" line="142" column="20" />
+        <mark key="]" line="134" column="14" />
+        <mark key="." line="134" column="14" />
+        <mark key="^" line="134" column="14" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
         <mark key="[" line="55" column="41" />
@@ -92,7 +93,7 @@
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Statistics.java" timestamp="1472754995186">
         <mark key="[" line="13" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475720925043">
+      <file name="/Dummy.txt" timestamp="1475798849647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/analysis/EntrypointAnalysis.java" timestamp="1472782374979">
@@ -123,10 +124,11 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475791317329">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475798816032">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="104" column="11" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/wrappers/CallPath.java" timestamp="1472783771088">
         <mark key="[" line="20" column="0" />
@@ -197,35 +199,38 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRoLnIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRoLnIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">SXRlcmF0b3I8TWV0aG9kT3JNZXRob2RDb250ZXh0PiBtZXRob2RPck1ldGhvZENvbnRleHRJdGVyYXRvciA9IGNhbGxHcmFwaC5zb3VyY2VNZXRob2RzKCk7CiAgICAgICAgd2hpbGUgKG1ldGhvZE9yTWV0aG9kQ29udGV4dEl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBTb290TWV0aG9kIHNvb3RNZXRob2QgPSBtZXRob2RPck1ldGhvZENvbnRleHRJdGVyYXRvci5uZXh0KCkubWV0aG9kKCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5iYihUQUcsICJ2OiAiICsgdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKEVkZ2UgZWRnZSA6IHN1YkdyYXBoKSB7CiAgICAgICAgICAgIExvZy5iYihUQUcsIGVkZ2UpOwogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9pZiAoIXBhdGguY29udGFpbnMoZS5zcmMoKSkpIHsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>//}
+                        //if (!path.contains(e.tgt())) {
+                            //path.add(e.tgt());
+                        //}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRoLnIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">SXRlcmF0b3I8TWV0aG9kT3JNZXRob2RDb250ZXh0PiBtZXRob2RPck1ldGhvZENvbnRleHRJdGVyYXRvciA9IGNhbGxHcmFwaC5zb3VyY2VNZXRob2RzKCk7CiAgICAgICAgd2hpbGUgKG1ldGhvZE9yTWV0aG9kQ29udGV4dEl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBTb290TWV0aG9kIHNvb3RNZXRob2QgPSBtZXRob2RPck1ldGhvZENvbnRleHRJdGVyYXRvci5uZXh0KCkubWV0aG9kKCk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAobWV0aG9kSXRlcmF0b3IuaGFzTmV4dCgpKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>methodIterator.next().method()</text>
