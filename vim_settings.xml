@@ -11,6 +11,11 @@
       <file name="D:/workspace/MyIntelliDroid/settings.gradle" timestamp="1472757199099">
         <mark key="[" line="0" column="41" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/ClassUtils.java" timestamp="1475873878913">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+      </file>
       <file name="D:/workspace/MyConDroid/src/fu/hao/utils/IndexMinPQ.java" timestamp="1475734731698">
         <mark key="[" line="345" column="18" />
       </file>
@@ -142,11 +147,10 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475872589041">
-        <mark key="[" line="270" column="9" />
-        <mark key="]" line="259" column="21" />
-        <mark key="." line="259" column="21" />
-        <mark key="^" line="259" column="21" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475873689032">
+        <mark key="[" line="258" column="23" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475800193907">
         <mark key="[" line="179" column="18" />
@@ -174,10 +178,11 @@
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475799466176">
         <mark key="^" line="386" column="44" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475872764807">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475874073913">
         <mark key="[" line="207" column="47" />
-        <mark key="]" line="207" column="47" />
-        <mark key="." line="207" column="47" />
+        <mark key="]" line="211" column="16" />
+        <mark key="." line="211" column="16" />
+        <mark key="^" line="211" column="16" />
       </file>
       <file name="D:/workspace/ConDroid/utils/src/fu/hao/utils/Settings.java" timestamp="1475603569201">
         <mark key="[" line="34" column="45" />
@@ -210,35 +215,51 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm1ldGhvZCBuYW1lIGlzIittZXRob2QuZ2V0TmFtZSgpKTsK</text>
+      <register name="1" type="4">
+        <text>/**
+         * Method: isActivity 
+         * Description: W
+         * @param []
+         * @throw 
+         * @return boolean
+         * @author Hao Fu(haofu@ucdavis.edu)
+         * @since 2016/10/7 13:57
+         */</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MethodUtils.getConstructors(path.get(0).getDeclaringClass())</text>
+        <text>/**
+         * Method: isActivity 
+         * Description: W
+         * @param []
+         * @throw 
+         * @return boolean
+         * @author Hao Fu(haofu@ucdavis.edu)
+         * @since 2016/10/7 13:57
+         */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygiXG5cblJlbW92ZUVtcHR5Qm9keURlZmF1bHRDb25zdHJ1Y3Rvci0tLS0iK3MuZ2V0TmFtZSgpKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm1ldGhvZCBuYW1lIGlzIittZXRob2QuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuYmIoVEFHLCBkZWNsYXJpbmdDbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygiXG5cblJlbW92ZUVtcHR5Qm9keURlZmF1bHRDb25zdHJ1Y3Rvci0tLS0iK3MuZ2V0TmFtZSgpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuYmIoVEFHLCBkZWNsYXJpbmdDbGFzcyk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>MethodUtils.getConstructors(path.get(0).getDeclaringClass())</text>
