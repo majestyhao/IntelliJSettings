@@ -142,6 +142,12 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475872589041">
+        <mark key="[" line="270" column="9" />
+        <mark key="]" line="259" column="21" />
+        <mark key="." line="259" column="21" />
+        <mark key="^" line="259" column="21" />
+      </file>
       <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475800193907">
         <mark key="[" line="179" column="18" />
         <mark key="]" line="179" column="16" />
@@ -168,8 +174,10 @@
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475799466176">
         <mark key="^" line="386" column="44" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475864769586">
-        <mark key="[" line="30" column="4" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475872764807">
+        <mark key="[" line="207" column="47" />
+        <mark key="]" line="207" column="47" />
+        <mark key="." line="207" column="47" />
       </file>
       <file name="D:/workspace/ConDroid/utils/src/fu/hao/utils/Settings.java" timestamp="1475603569201">
         <mark key="[" line="34" column="45" />
@@ -203,40 +211,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm1ldGhvZCBuYW1lIGlzIittZXRob2QuZ2V0TmFtZSgpKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>MethodUtils.getConstructors(path.get(0).getDeclaringClass())</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygiXG5cblJlbW92ZUVtcHR5Qm9keURlZmF1bHRDb25zdHJ1Y3Rvci0tLS0iK3MuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuYmIoVEFHLCBkZWNsYXJpbmdDbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuYmIoVEFHLCBkZWNsYXJpbmdDbGFzcyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9pZiAoIXBhdGguY29udGFpbnMoZS5zcmMoKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>//}
-                        //if (!path.contains(e.tgt())) {
-                            //path.add(e.tgt());
-                        //}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>methodIterator.next().method()</text>
+        <text>MethodUtils.getConstructors(path.get(0).getDeclaringClass())</text>
       </register>
     </registers>
     <search>
