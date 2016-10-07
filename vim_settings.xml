@@ -98,6 +98,11 @@
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/MethodUtils.java" timestamp="1475875888193">
+        <mark key="]" line="262" column="10" />
+        <mark key="^" line="262" column="10" />
+        <mark key="." line="262" column="10" />
+      </file>
       <file name="D:/workspace/MyIntelliDroid/build.gradle" timestamp="1472757180382">
         <mark key="[" line="6" column="31" />
       </file>
@@ -127,6 +132,12 @@
         <mark key="]" line="134" column="14" />
         <mark key="." line="134" column="14" />
         <mark key="^" line="134" column="14" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475876056565">
+        <mark key="[" line="191" column="39" />
+        <mark key="]" line="33" column="14" />
+        <mark key="^" line="33" column="14" />
+        <mark key="." line="33" column="14" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
         <mark key="[" line="55" column="41" />
@@ -170,8 +181,13 @@
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Statistics.java" timestamp="1472754995186">
         <mark key="[" line="13" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475875356902">
+      <file name="/Dummy.txt" timestamp="1475875718096">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475875998056">
+        <mark key="[" line="70" column="29" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/analysis/EntrypointAnalysis.java" timestamp="1472782374979">
         <mark key="[" line="102" column="35" />
@@ -223,7 +239,16 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZChtZXRob2QuZ2V0TmFtZSgpKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZChtZXRob2QuZ2V0TmFtZSgpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsIG1lLmdldFNpZ25hdHVyZSgpKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>// Get the lifecycle method to instrument: if onResume() presents use onResume, otherwise use onCreate
         instrumentationHelper = new InstrumentationHelper(new File(apk));
         SootMethod lcMethodToExtend = instrumentationHelper.getDefaultOnResume();
@@ -233,33 +258,22 @@
 
         assert lcMethodToExtend != null : &quot;No default activity found!&quot;;
         Log.msg(TAG, &quot;Method to be instrumented: &quot; + lcMethodToExtend);</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>// Get the lifecycle method to instrument: if onResume() presents use onResume, otherwise use onCreate
-        instrumentationHelper = new InstrumentationHelper(new File(apk));
-        SootMethod lcMethodToExtend = instrumentationHelper.getDefaultOnResume();
-        if (lcMethodToExtend == null) {
-            lcMethodToExtend = instrumentationHelper.getDefaultOnCreate();
-        }
-
-        assert lcMethodToExtend != null : &quot;No default activity found!&quot;;
-        Log.msg(TAG, &quot;Method to be instrumented: &quot; + lcMethodToExtend);</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoKICAgICAgICAvL1JlZ2lzdGVyIGFsbCBhcHBsaWNhdGlvbiBjbGFzc2VzIGZvciBpbnN0cnVtZW50YXRpb24KICAgICAgICBDaGFpbjxTb290Q2xhc3M+IGFwcGNsYXNzZXMgPSBTY2VuZS52KCkuZ2V0QXBwbGljYXRpb25DbGFzc2VzKCk7CiAgICAgICAgZm9yIChTb290Q2xhc3MgYyA6IGFwcGNsYXNzZXMpIHsKICAgICAgICAgICAgbWV0aG9kc1RvSW5zdHJ1bWVudC5hZGRBbGwoYy5nZXRNZXRob2RzKCkpOwogICAgICAgIH0KCiAgICAgICAgLy9Db2xsZWN0IGFkZGl0aW9uYWwgY2xhc3NlcyB3aGljaCB3aWxsIGJlIGluamVjdGVkIGludG8gdGhlIGFwcAogICAgICAgIExpc3Q8U3RyaW5nPiBsaWJDbGFzc2VzVG9JbmplY3QgPSBTb3VyY2VMb2NhdG9yLnYoKS5nZXRDbGFzc2VzVW5kZXIoImphcnMvYTN0X3N5bWJvbGljLmphciIpOwogICAgICAgIGZvciAoU3RyaW5nIHMgOiBsaWJDbGFzc2VzVG9JbmplY3QpIHsKICAgICAgICAgICAgU2NlbmUudigpLmFkZEJhc2ljQ2xhc3MocywgU29vdENsYXNzLkJPRElFUyk7CiAgICAgICAgICAgIFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KHMpOwogICAgICAgICAgICBTb290Q2xhc3MgY2xhenogPSBTY2VuZS52KCkuZm9yY2VSZXNvbHZlKHMsIFNvb3RDbGFzcy5CT0RJRVMpOwogICAgICAgICAgICBjbGF6ei5zZXRBcHBsaWNhdGlvbkNsYXNzKCk7CiAgICAgICAgfQoKICAgICAgICAvL0dldCB0aGUgbGlmZWN5Y2xlIG1ldGhvZCB0byBpbnN0cnVtZW50CiAgICAgICAgaW5zdHJ1bWVudGF0aW9uSGVscGVyID0gbmV3IEluc3RydW1lbnRhdGlvbkhlbHBlcihuZXcgRmlsZShhcGspKTsKICAgICAgICBTb290TWV0aG9kIGxjTWV0aG9kVG9FeHRlbmQgPSBpbnN0cnVtZW50YXRpb25IZWxwZXIuZ2V0RGVmYXVsdE9uUmVzdW1lKCk7CiAgICAgICAgaWYgKGxjTWV0aG9kVG9FeHRlbmQgPT0gbnVsbCkgewogICAgICAgICAgICBsY01ldGhvZFRvRXh0ZW5kID0gaW5zdHJ1bWVudGF0aW9uSGVscGVyLmdldERlZmF1bHRPbkNyZWF0ZSgpOwogICAgICAgIH0KCiAgICAgICAgYXNzZXJ0IGxjTWV0aG9kVG9FeHRlbmQgIT0gbnVsbCA6ICJObyBkZWZhdWx0IGFjdGl2aXR5IGZvdW5kIjsKCiAgICAgICAgaWYgKCFTS0lQX0NHX0VYVEVOVElPTikgewogICAgICAgICAgICAvL1BhY2tNYW5hZ2VyLnYoKS5nZXRQYWNrKCJ3anRwIikuYWRkKG5ldyBUcmFuc2Zvcm0oIndqdHAuYW5kcm9pZCIsIG5ldyBBbmRyb2lkQ0dFeHRlbmRlcigpKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIVNLSVBfQ09OQ09MSUNfSU5TVFJVTUVOVEFUSU9OICYmICFTS0lQX0FMTF9JTlNUUlVNRU5UQVRJT04pIHsKICAgICAgICAgICAgUGFja01hbmFnZXIudigpLmdldFBhY2soIndqdHAiKS5hZGQobmV3IFRyYW5zZm9ybSgid2p0cC5hY3RldmUiLCBuZXcgTWFpbigpKSk7CiAgICAgICAgfSov</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgbGliSmFycyArICI7Igo=</text>
       </register>
       <register name="4" type="4">
-        <text>+ libJars + &quot;;&quot;
-                //+ modelClasses + &quot;;&quot;</text>
+        <text encoding="base64">LyoKICAgICAgICAvL1JlZ2lzdGVyIGFsbCBhcHBsaWNhdGlvbiBjbGFzc2VzIGZvciBpbnN0cnVtZW50YXRpb24KICAgICAgICBDaGFpbjxTb290Q2xhc3M+IGFwcGNsYXNzZXMgPSBTY2VuZS52KCkuZ2V0QXBwbGljYXRpb25DbGFzc2VzKCk7CiAgICAgICAgZm9yIChTb290Q2xhc3MgYyA6IGFwcGNsYXNzZXMpIHsKICAgICAgICAgICAgbWV0aG9kc1RvSW5zdHJ1bWVudC5hZGRBbGwoYy5nZXRNZXRob2RzKCkpOwogICAgICAgIH0KCiAgICAgICAgLy9Db2xsZWN0IGFkZGl0aW9uYWwgY2xhc3NlcyB3aGljaCB3aWxsIGJlIGluamVjdGVkIGludG8gdGhlIGFwcAogICAgICAgIExpc3Q8U3RyaW5nPiBsaWJDbGFzc2VzVG9JbmplY3QgPSBTb3VyY2VMb2NhdG9yLnYoKS5nZXRDbGFzc2VzVW5kZXIoImphcnMvYTN0X3N5bWJvbGljLmphciIpOwogICAgICAgIGZvciAoU3RyaW5nIHMgOiBsaWJDbGFzc2VzVG9JbmplY3QpIHsKICAgICAgICAgICAgU2NlbmUudigpLmFkZEJhc2ljQ2xhc3MocywgU29vdENsYXNzLkJPRElFUyk7CiAgICAgICAgICAgIFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KHMpOwogICAgICAgICAgICBTb290Q2xhc3MgY2xhenogPSBTY2VuZS52KCkuZm9yY2VSZXNvbHZlKHMsIFNvb3RDbGFzcy5CT0RJRVMpOwogICAgICAgICAgICBjbGF6ei5zZXRBcHBsaWNhdGlvbkNsYXNzKCk7CiAgICAgICAgfQoKICAgICAgICAvL0dldCB0aGUgbGlmZWN5Y2xlIG1ldGhvZCB0byBpbnN0cnVtZW50CiAgICAgICAgaW5zdHJ1bWVudGF0aW9uSGVscGVyID0gbmV3IEluc3RydW1lbnRhdGlvbkhlbHBlcihuZXcgRmlsZShhcGspKTsKICAgICAgICBTb290TWV0aG9kIGxjTWV0aG9kVG9FeHRlbmQgPSBpbnN0cnVtZW50YXRpb25IZWxwZXIuZ2V0RGVmYXVsdE9uUmVzdW1lKCk7CiAgICAgICAgaWYgKGxjTWV0aG9kVG9FeHRlbmQgPT0gbnVsbCkgewogICAgICAgICAgICBsY01ldGhvZFRvRXh0ZW5kID0gaW5zdHJ1bWVudGF0aW9uSGVscGVyLmdldERlZmF1bHRPbkNyZWF0ZSgpOwogICAgICAgIH0KCiAgICAgICAgYXNzZXJ0IGxjTWV0aG9kVG9FeHRlbmQgIT0gbnVsbCA6ICJObyBkZWZhdWx0IGFjdGl2aXR5IGZvdW5kIjsKCiAgICAgICAgaWYgKCFTS0lQX0NHX0VYVEVOVElPTikgewogICAgICAgICAgICAvL1BhY2tNYW5hZ2VyLnYoKS5nZXRQYWNrKCJ3anRwIikuYWRkKG5ldyBUcmFuc2Zvcm0oIndqdHAuYW5kcm9pZCIsIG5ldyBBbmRyb2lkQ0dFeHRlbmRlcigpKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIVNLSVBfQ09OQ09MSUNfSU5TVFJVTUVOVEFUSU9OICYmICFTS0lQX0FMTF9JTlNUUlVNRU5UQVRJT04pIHsKICAgICAgICAgICAgUGFja01hbmFnZXIudigpLmdldFBhY2soIndqdHAiKS5hZGQobmV3IFRyYW5zZm9ybSgid2p0cC5hY3RldmUiLCBuZXcgTWFpbigpKSk7CiAgICAgICAgfSov</text>
       </register>
-      <register name="5" type="4">
-        <text>+ libJars + &quot;;&quot;
-                //+ modelClasses + &quot;;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgbGliSmFycyArICI7Igo=</text>
       </register>
       <register name="6" type="4">
+        <text>+ libJars + &quot;;&quot;
+                //+ modelClasses + &quot;;&quot;</text>
+      </register>
+      <register name="7" type="4">
+        <text>+ libJars + &quot;;&quot;
+                //+ modelClasses + &quot;;&quot;</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
          * Method: isActivity 
          * Description: W
@@ -270,14 +284,8 @@
          * @since 2016/10/7 13:57
          */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm1ldGhvZCBuYW1lIGlzIittZXRob2QuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TGlzdDxMaXN0PFNvb3RNZXRob2Q+Pg==</text>
