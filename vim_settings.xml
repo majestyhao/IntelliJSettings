@@ -30,6 +30,12 @@
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/analysis/SensitivePaths.java" timestamp="1475875210589">
+        <mark key="[" line="194" column="62" />
+        <mark key="]" line="194" column="47" />
+        <mark key="." line="194" column="47" />
+        <mark key="^" line="194" column="47" />
+      </file>
       <file name="D:/workspace/IntelliDroidOri/build.gradle" timestamp="1472703268707">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
@@ -178,11 +184,8 @@
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/Main.java" timestamp="1475799466176">
         <mark key="^" line="386" column="44" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475874446966">
-        <mark key="[" line="207" column="47" />
-        <mark key="]" line="211" column="16" />
-        <mark key="." line="211" column="16" />
-        <mark key="^" line="211" column="16" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/Main.java" timestamp="1475875060754">
+        <mark key="[" line="57" column="7" />
       </file>
       <file name="D:/workspace/ConDroid/utils/src/fu/hao/utils/Settings.java" timestamp="1475603569201">
         <mark key="[" line="34" column="45" />
@@ -195,7 +198,7 @@
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1475864701079">
+      <file name="/fragment.java" timestamp="1475875018564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="36" />
         <mark key="." line="8" column="36" />
@@ -215,18 +218,21 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>/**
-         * Method: isActivity 
-         * Description: W
-         * @param []
-         * @throw 
-         * @return boolean
-         * @author Hao Fu(haofu@ucdavis.edu)
-         * @since 2016/10/7 13:57
-         */</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgbGliSmFycyArICI7Igo=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">TGlzdDxMaXN0PFNvb3RNZXRob2Q+Pg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>+ libJars + &quot;;&quot;
+                //+ modelClasses + &quot;;&quot;</text>
+      </register>
+      <register name="3" type="4">
+        <text>+ libJars + &quot;;&quot;
+                //+ modelClasses + &quot;;&quot;</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
          * Method: isActivity 
          * Description: W
@@ -237,32 +243,23 @@
          * @since 2016/10/7 13:57
          */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm1ldGhvZCBuYW1lIGlzIittZXRob2QuZ2V0TmFtZSgpKTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygiXG5cblJlbW92ZUVtcHR5Qm9keURlZmF1bHRDb25zdHJ1Y3Rvci0tLS0iK3MuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIm1ldGhvZCBuYW1lIGlzIittZXRob2QuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuYmIoVEFHLCBkZWNsYXJpbmdDbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygiXG5cblJlbW92ZUVtcHR5Qm9keURlZmF1bHRDb25zdHJ1Y3Rvci0tLS0iK3MuZ2V0TmFtZSgpKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>MethodUtils.getConstructors(path.get(0).getDeclaringClass())</text>
+        <text encoding="base64">TGlzdDxMaXN0PFNvb3RNZXRob2Q+Pg==</text>
       </register>
     </registers>
     <search>
