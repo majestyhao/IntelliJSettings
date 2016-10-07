@@ -102,6 +102,7 @@
         <mark key="." line="103" column="75" />
         <mark key="^" line="103" column="28" />
       </file>
+      <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475800730593" />
       <file name="D:/workspace/PlayWala/src/MySlicer.java" timestamp="1472701216669">
         <mark key="[" line="27" column="86" />
         <mark key="]" line="27" column="86" />
@@ -142,10 +143,11 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475799538551">
-        <mark key="[" line="145" column="83" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/InstrumentationHelper.java" timestamp="1475800193907">
+        <mark key="[" line="179" column="18" />
+        <mark key="]" line="179" column="16" />
+        <mark key="." line="179" column="16" />
+        <mark key="^" line="179" column="16" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/IntelliDroidAppAnalysis.java" timestamp="1475100030304">
         <mark key="[" line="163" column="0" />
@@ -199,37 +201,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL01hcDxTb290TWV0aG9kLCBMaXN0PFNvb3RNZXRob2Q+PiBwYXRocyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuYmIoVEFHLCBkZWNsYXJpbmdDbGFzcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9pZiAoIXBhdGguY29udGFpbnMoZS5zcmMoKSkpIHsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>//}
                         //if (!path.contains(e.tgt())) {
                             //path.add(e.tgt());
                         //}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRoLnIK</text>
       </register>
       <register name="-" type="4">
         <text>methodIterator.next().method()</text>
