@@ -11,7 +11,7 @@
       <file name="D:/workspace/ConDroid/src/main/java/acteve/instrumentor/MethodUtils.java" timestamp="1475722818583">
         <mark key="[" line="157" column="120" />
       </file>
-      <file name="/a.dummy" timestamp="1472698695889">
+      <file name="/a.dummy" timestamp="1475895437075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/IntelliDroidX/src/fu/hao/intellidroid/core/Test.java" timestamp="1472641280671">
@@ -38,6 +38,11 @@
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Test.java" timestamp="1475892105679">
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/utils/App.java" timestamp="1475895850767">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="D:/workspace/PlayWala/src/MySlicer.java" timestamp="1472701216669">
         <mark key="[" line="27" column="86" />
         <mark key="]" line="27" column="86" />
@@ -61,11 +66,11 @@
         <mark key="^" line="28" column="8" />
         <mark key="." line="28" column="8" />
       </file>
-      <file name="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475798955049">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensAnalysis.java" timestamp="1475895231501">
+        <mark key="[" line="163" column="50" />
+        <mark key="]" line="163" column="51" />
+        <mark key="." line="163" column="51" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/acteve/instrumentor/MethodUtils.java" timestamp="1475873689032">
         <mark key="[" line="258" column="23" />
@@ -136,11 +141,10 @@
         <mark key="." line="134" column="14" />
         <mark key="^" line="134" column="14" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475877518481">
-        <mark key="[" line="191" column="39" />
-        <mark key="]" line="33" column="14" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="33" column="14" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475895738412">
+        <mark key="[" line="176" column="5" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
         <mark key="[" line="55" column="41" />
@@ -187,10 +191,10 @@
       <file name="/Dummy.txt" timestamp="1475893615228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475891195480">
-        <mark key="[" line="70" column="29" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475895752661">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/core/analysis/EntrypointAnalysis.java" timestamp="1472782374979">
         <mark key="[" line="102" column="35" />
@@ -214,6 +218,12 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
         <mark key="^" line="73" column="18" />
+      </file>
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475896586978">
+        <mark key="[" line="108" column="28" />
+        <mark key="]" line="93" column="15" />
+        <mark key="." line="93" column="15" />
+        <mark key="^" line="93" column="15" />
       </file>
       <file name="D:/workspace/ConDroid/src/symbolic/java/acteve/symbolic/Mylog.java" timestamp="1475456175380">
         <mark key="[" line="103" column="12" />
@@ -242,56 +252,40 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZChtZXRob2QuZ2V0TmFtZSgpKTsK</text>
+      <register name="1" type="4">
+        <text>|| potential.toString().contains(
+                                    &quot;org.apache.http&quot;)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZChtZXRob2QuZ2V0TmFtZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>|| potential.toString().contains(
+                                    &quot;org.apache.http&quot;)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLm1zZyhUQUcsIG1lLmdldFNpZ25hdHVyZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>// Get the lifecycle method to instrument: if onResume() presents use onResume, otherwise use onCreate
-        instrumentationHelper = new InstrumentationHelper(new File(apk));
-        SootMethod lcMethodToExtend = instrumentationHelper.getDefaultOnResume();
-        if (lcMethodToExtend == null) {
-            lcMethodToExtend = instrumentationHelper.getDefaultOnCreate();
-        }
-
-        assert lcMethodToExtend != null : &quot;No default activity found!&quot;;
-        Log.msg(TAG, &quot;Method to be instrumented: &quot; + lcMethodToExtend);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoKICAgICAgICAvL1JlZ2lzdGVyIGFsbCBhcHBsaWNhdGlvbiBjbGFzc2VzIGZvciBpbnN0cnVtZW50YXRpb24KICAgICAgICBDaGFpbjxTb290Q2xhc3M+IGFwcGNsYXNzZXMgPSBTY2VuZS52KCkuZ2V0QXBwbGljYXRpb25DbGFzc2VzKCk7CiAgICAgICAgZm9yIChTb290Q2xhc3MgYyA6IGFwcGNsYXNzZXMpIHsKICAgICAgICAgICAgbWV0aG9kc1RvSW5zdHJ1bWVudC5hZGRBbGwoYy5nZXRNZXRob2RzKCkpOwogICAgICAgIH0KCiAgICAgICAgLy9Db2xsZWN0IGFkZGl0aW9uYWwgY2xhc3NlcyB3aGljaCB3aWxsIGJlIGluamVjdGVkIGludG8gdGhlIGFwcAogICAgICAgIExpc3Q8U3RyaW5nPiBsaWJDbGFzc2VzVG9JbmplY3QgPSBTb3VyY2VMb2NhdG9yLnYoKS5nZXRDbGFzc2VzVW5kZXIoImphcnMvYTN0X3N5bWJvbGljLmphciIpOwogICAgICAgIGZvciAoU3RyaW5nIHMgOiBsaWJDbGFzc2VzVG9JbmplY3QpIHsKICAgICAgICAgICAgU2NlbmUudigpLmFkZEJhc2ljQ2xhc3MocywgU29vdENsYXNzLkJPRElFUyk7CiAgICAgICAgICAgIFNjZW5lLnYoKS5sb2FkQ2xhc3NBbmRTdXBwb3J0KHMpOwogICAgICAgICAgICBTb290Q2xhc3MgY2xhenogPSBTY2VuZS52KCkuZm9yY2VSZXNvbHZlKHMsIFNvb3RDbGFzcy5CT0RJRVMpOwogICAgICAgICAgICBjbGF6ei5zZXRBcHBsaWNhdGlvbkNsYXNzKCk7CiAgICAgICAgfQoKICAgICAgICAvL0dldCB0aGUgbGlmZWN5Y2xlIG1ldGhvZCB0byBpbnN0cnVtZW50CiAgICAgICAgaW5zdHJ1bWVudGF0aW9uSGVscGVyID0gbmV3IEluc3RydW1lbnRhdGlvbkhlbHBlcihuZXcgRmlsZShhcGspKTsKICAgICAgICBTb290TWV0aG9kIGxjTWV0aG9kVG9FeHRlbmQgPSBpbnN0cnVtZW50YXRpb25IZWxwZXIuZ2V0RGVmYXVsdE9uUmVzdW1lKCk7CiAgICAgICAgaWYgKGxjTWV0aG9kVG9FeHRlbmQgPT0gbnVsbCkgewogICAgICAgICAgICBsY01ldGhvZFRvRXh0ZW5kID0gaW5zdHJ1bWVudGF0aW9uSGVscGVyLmdldERlZmF1bHRPbkNyZWF0ZSgpOwogICAgICAgIH0KCiAgICAgICAgYXNzZXJ0IGxjTWV0aG9kVG9FeHRlbmQgIT0gbnVsbCA6ICJObyBkZWZhdWx0IGFjdGl2aXR5IGZvdW5kIjsKCiAgICAgICAgaWYgKCFTS0lQX0NHX0VYVEVOVElPTikgewogICAgICAgICAgICAvL1BhY2tNYW5hZ2VyLnYoKS5nZXRQYWNrKCJ3anRwIikuYWRkKG5ldyBUcmFuc2Zvcm0oIndqdHAuYW5kcm9pZCIsIG5ldyBBbmRyb2lkQ0dFeHRlbmRlcigpKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIVNLSVBfQ09OQ09MSUNfSU5TVFJVTUVOVEFUSU9OICYmICFTS0lQX0FMTF9JTlNUUlVNRU5UQVRJT04pIHsKICAgICAgICAgICAgUGFja01hbmFnZXIudigpLmdldFBhY2soIndqdHAiKS5hZGQobmV3IFRyYW5zZm9ybSgid2p0cC5hY3RldmUiLCBuZXcgTWFpbigpKSk7CiAgICAgICAgfSov</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZUNTVihzZW5zaXRpdmVQYXRocy5nZXRFbnRyeUFjdGl2aXRkZGllcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgbGliSmFycyArICI7Igo=</text>
+        <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLmluZm9mbG93LnNvdXJjZS5kYXRhLlNvdXJjZVNpbmtEZWZpbml0aW9uOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>+ libJars + &quot;;&quot;
-                //+ modelClasses + &quot;;&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHNvb3QuU29vdENsYXNzOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>+ libJars + &quot;;&quot;
-                //+ modelClasses + &quot;;&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGZ1Lmhhby50cnVzdC5kYXRhLlJlc3VsdHM7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-         * Method: isActivity 
-         * Description: W
-         * @param []
-         * @throw 
-         * @return boolean
-         * @author Hao Fu(haofu@ucdavis.edu)
-         * @since 2016/10/7 13:57
-         */</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgZnUuaGFvLnRydXN0LmRhdGEuQXBwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQYWNrTWFuYWdlci52KCkuZ2V0UGFjaygiY2ciKS5hcHBseSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxMaXN0PFNvb3RNZXRob2Q+Pg==</text>
+        <text>xtends FlowDroidMain</text>
       </register>
     </registers>
     <search>
