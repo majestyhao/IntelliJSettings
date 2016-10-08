@@ -141,11 +141,11 @@
         <mark key="." line="134" column="14" />
         <mark key="^" line="134" column="14" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475896901564">
-        <mark key="[" line="176" column="5" />
-        <mark key="]" line="166" column="12" />
-        <mark key="." line="166" column="12" />
-        <mark key="^" line="166" column="12" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475899830821">
+        <mark key="[" line="164" column="45" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="167" column="12" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
         <mark key="[" line="55" column="41" />
@@ -222,10 +222,10 @@
         <mark key="." line="164" column="0" />
         <mark key="^" line="73" column="18" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475896892180">
-        <mark key="[" line="163" column="35" />
-        <mark key="]" line="163" column="35" />
-        <mark key="." line="163" column="35" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475899803778">
+        <mark key="[" line="175" column="14" />
+        <mark key="]" line="175" column="14" />
+        <mark key="." line="175" column="14" />
         <mark key="^" line="92" column="15" />
       </file>
       <file name="D:/workspace/ConDroid/src/symbolic/java/acteve/symbolic/Mylog.java" timestamp="1475456175380">
@@ -255,39 +255,39 @@
       <jump line="40" column="4" filename="D:/workspace/MyConDroid/src/fu/hao/acteve/instrumentor/MethodUtils.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBUaXRsZTogd3JpdGVDU1YKICAgICAqIERlc2NyaXB0aW9uOiB3cml0ZSByZXN1bHRzIHRvIGNzdgogICAgICogQHBhcmFtIHN1c3BpY291cwogICAgICogQHRocm93cyBJT0V4Y2VwdGlvbgogICAgICogQHJldHVybjogdm9pZAogICAgICovCiAgICBwdWJsaWMgdm9pZCB3cml0ZUNTVihTZXQ8U29vdENsYXNzPiBzdXNwaWNvdXMpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIGNzdiA9ICJvdXRwdXQvIiArIFNldHRpbmdzLmdldEFwcE5hbWUoKSArICIuY3N2IjsKICAgICAgICBGaWxlIGNzdkZpbGUgPSBuZXcgRmlsZShjc3YpOwogICAgICAgIExvZy5tc2coVEFHLCBjc3YpOwogICAgICAgIGlmICghY3N2RmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICBjc3ZGaWxlLmNyZWF0ZU5ld0ZpbGUoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjc3ZGaWxlLmRlbGV0ZSgpOwogICAgICAgICAgICBjc3ZGaWxlLmNyZWF0ZU5ld0ZpbGUoKTsKICAgICAgICB9CiAgICAgICAgQ1NWV3JpdGVyIHdyaXRlciA9IG5ldyBDU1ZXcml0ZXIobmV3IEZpbGVXcml0ZXIoY3N2LCB0cnVlKSk7CiAgICAgICAgTGlzdDxTdHJpbmdbXT4gcmVzdWx0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoU29vdENsYXNzIHNvb3RDbGFzcyA6IHN1c3BpY291cykgewogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIHJlc3VsdC5hZGQoc29vdENsYXNzLnRvU3RyaW5nKCkpOwogICAgICAgICAgICBTdHJpbmdbXSByZXN1bHRBcnJheSA9IChTdHJpbmdbXSkgcmVzdWx0LnRvQXJyYXkobmV3IFN0cmluZ1tyZXN1bHQKICAgICAgICAgICAgICAgICAgICAuc2l6ZSgpXSk7CiAgICAgICAgICAgIHJlc3VsdHMuYWRkKHJlc3VsdEFycmF5KTsKICAgICAgICB9CgogICAgICAgIHdyaXRlci53cml0ZUFsbChyZXN1bHRzKTsKICAgICAgICB3cml0ZXIuY2xvc2UoKTsKICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text>|| potential.toString().contains(
                                     &quot;org.apache.http&quot;)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(String[])</text>
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZUNTVihzZW5zaXRpdmVQYXRocy5nZXRFbnRyeUFjdGl2aXRkZGllcygpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHNvb3QuamltcGxlLmluZm9mbG93LnNvdXJjZS5kYXRhLlNvdXJjZVNpbmtEZWZpbml0aW9uOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHNvb3QuU29vdENsYXNzOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGZ1Lmhhby50cnVzdC5kYXRhLlJlc3VsdHM7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgZnUuaGFvLnRydXN0LmRhdGEuQXBwOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQYWNrTWFuYWdlci52KCkuZ2V0UGFjaygiY2ciKS5hcHBseSgpOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text>(String[])</text>
+        <text>suspicous</text>
       </register>
     </registers>
     <search>
