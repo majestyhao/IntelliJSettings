@@ -141,10 +141,11 @@
         <mark key="." line="134" column="14" />
         <mark key="^" line="134" column="14" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475895738412">
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensitivePaths.java" timestamp="1475896901564">
         <mark key="[" line="176" column="5" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="]" line="166" column="12" />
+        <mark key="." line="166" column="12" />
+        <mark key="^" line="166" column="12" />
       </file>
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Log.java" timestamp="1472690414353">
         <mark key="[" line="55" column="41" />
@@ -188,8 +189,10 @@
       <file name="D:/workspace/MyIntelliDroid/src/fu/hao/intellidroid/utils/Statistics.java" timestamp="1472754995186">
         <mark key="[" line="13" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475893615228">
+      <file name="/Dummy.txt" timestamp="1475896633899">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/Main.java" timestamp="1475895752661">
         <mark key="[" line="49" column="0" />
@@ -219,11 +222,11 @@
         <mark key="." line="164" column="0" />
         <mark key="^" line="73" column="18" />
       </file>
-      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475896586978">
-        <mark key="[" line="108" column="28" />
-        <mark key="]" line="93" column="15" />
-        <mark key="." line="93" column="15" />
-        <mark key="^" line="93" column="15" />
+      <file name="D:/workspace/COSMOS_TRIGGER/src/fu/hao/cosmos/analysis/SensEntryFinder.java" timestamp="1475896892180">
+        <mark key="[" line="163" column="35" />
+        <mark key="]" line="163" column="35" />
+        <mark key="." line="163" column="35" />
+        <mark key="^" line="92" column="15" />
       </file>
       <file name="D:/workspace/ConDroid/src/symbolic/java/acteve/symbolic/Mylog.java" timestamp="1475456175380">
         <mark key="[" line="103" column="12" />
@@ -257,8 +260,7 @@
                                     &quot;org.apache.http&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>|| potential.toString().contains(
-                                    &quot;org.apache.http&quot;)</text>
+        <text>(String[])</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -285,7 +287,7 @@
         <text encoding="base64">ICAgICAgICBQYWNrTWFuYWdlci52KCkuZ2V0UGFjaygiY2ciKS5hcHBseSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>xtends FlowDroidMain</text>
+        <text>(String[])</text>
       </register>
     </registers>
     <search>
